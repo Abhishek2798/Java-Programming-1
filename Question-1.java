@@ -16,7 +16,7 @@ class Calculator{
     }
 }
 
-public class Q1 {
+public class abhi {
 
     public static void main(String[] args) {
 
